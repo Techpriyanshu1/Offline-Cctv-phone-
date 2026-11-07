@@ -1,0 +1,6 @@
+{
+  "name": "TwinGuard CCTV",
+  "description": "Offline live security camera and monitor system using direct local peer-to-peer Wi-Fi networking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
